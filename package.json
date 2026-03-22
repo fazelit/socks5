@@ -1,0 +1,8 @@
+{
+  "name": "socks5-proxy",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "socksv5": "^0.0.6"
+  }
+}
